@@ -1,0 +1,1 @@
+# django-react-typescript-starter
